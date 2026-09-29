@@ -1,0 +1,9 @@
+{
+  "product": "rcn-browser-extension",
+  "channel": "github-stable",
+  "version": "1.4.16",
+  "extensionId": "fbindmncklhddnehgbmnbhbkmchdaejk",
+  "sourceCommit": "f7fef4a0c43a8d5316601e27958d53252f823e05",
+  "updateUrl": "https://raw.githubusercontent.com/GodSyndRome/rCn-extension-releases/main/extension/chromium/update.xml",
+  "crxUrl": "https://raw.githubusercontent.com/GodSyndRome/rCn-extension-releases/main/extension/chromium/rCn-extension-v1.4.16.crx"
+}
