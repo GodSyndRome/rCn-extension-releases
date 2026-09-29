@@ -3,7 +3,15 @@
   "channel": "github-stable",
   "version": "1.4.16",
   "extensionId": "fbindmncklhddnehgbmnbhbkmchdaejk",
-  "sourceCommit": "f7fef4a0c43a8d5316601e27958d53252f823e05",
+  "automaticUpdate": true,
+  "sourceCommit": "9068791c55442522bab68d11dd9e687ca70d1ddd",
   "updateUrl": "https://raw.githubusercontent.com/GodSyndRome/rCn-extension-releases/main/extension/chromium/update.xml",
-  "crxUrl": "https://raw.githubusercontent.com/GodSyndRome/rCn-extension-releases/main/extension/chromium/rCn-extension-v1.4.16.crx"
+  "crxUrl": "https://raw.githubusercontent.com/GodSyndRome/rCn-extension-releases/main/extension/chromium/rCn-extension-v1.4.16.crx",
+  "zipUrl": "https://raw.githubusercontent.com/GodSyndRome/rCn-extension-releases/main/extension/chromium/rCn-extension-v1.4.16.zip",
+  "latestCrxUrl": "https://raw.githubusercontent.com/GodSyndRome/rCn-extension-releases/main/extension/chromium/rCn-extension-latest.crx",
+  "latestZipUrl": "https://raw.githubusercontent.com/GodSyndRome/rCn-extension-releases/main/extension/chromium/rCn-extension-latest.zip",
+  "sha256": {
+    "crx": "2844fe80d81b359ab0a969837b3f6e283da6df8fdc699055121580fc85ed3805",
+    "zip": "2d2e0fcff8996e4c199bebcef035e47b8201575beafb9dcab6d59d65d3c827f5"
+  }
 }
